@@ -1,4 +1,4 @@
-## VMware-Case-Study
+## VMWare-Case-Study
 
 **Problem Statement : Study VMWare case-study and implement correct Machine Learning algorithms**
 #### Entire case-study cannot be uploaded as it is copyrighted
