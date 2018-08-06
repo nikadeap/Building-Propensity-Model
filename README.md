@@ -1,5 +1,6 @@
-**## VMware-Case-Study**
-**Problem Statement :Study VMWare case-study and implement correct Machine Learning algorithms**
+## VMware-Case-Study
+
+**Problem Statement : Study VMWare case-study and implement correct Machine Learning algorithms**
 #### Entire case-study cannot be uploaded as it is copyrighted
 
 VMWare store has an online portal where users can purchase certain products such as A and B and the latter is the important driver of revenue generation. Major source of revenue comes from renewal via upgrade to the latest software but this year no upgrade is planned for workstation.
