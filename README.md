@@ -7,35 +7,35 @@ The business challenge is to target new workstation customers, up-sell to existi
 Now looking at the problem from analytics angle, VMWare has rich source of information about the customers including their purchase history and email ids. As the customer base is already high, it is not advisable to send the coupons straightaway to all the customers due to budget constraints.
 Now using analytics and  machine learning techniques, analytics team can build a propensity model to identify the customer who are likely to buy. Lift/Gain chart could help in identifying the targeted audience
 
-###Major challenges
-*Highly imbalanced Dataset
-*Large dataset
+**Major challenges**
+* Highly imbalanced Dataset
+* Large dataset
 
-###**Data Balancing techniques used**
-*Random Sampling
-*SMOTE:Synthetic Minority Over-sampling Technique
-*SMOTEEN
-*Cluster Based Over sampling
-*Bagging
-*Boosting
+**Data Balancing techniques used**
+* Random Sampling
+* SMOTE:Synthetic Minority Over-sampling Technique
+* SMOTEEN
+* Cluster Based Over sampling
+* Bagging
+* Boosting
 
-###**Feature Selection Techniques**
-*Extra Tree Classifier
+**Feature Selection Techniques**
+* Extra Tree Classifier
 * Wrapper Methods
-  *Recursive Feature Elimination
-  *Forward Backward Selection
-*Variance Inflation Factor
-*Embedded Techniques-LASSO & RIDGE
-*Boosting Techniques-Gradient Boosting Tree
+  * Recursive Feature Elimination
+  * Forward Backward Selection
+* Variance Inflation Factor
+* Embedded Techniques-LASSO & RIDGE
+* Boosting Techniques-Gradient Boosting Tree
 
-###**Algorithms Implementation**
-*Logistic Regression
-*Regularized Logistic Regression
-*Random Forest
-*Support Vector Machine
-*Adaboost
-*XGBoost
-*Lasso & Ridge
+**Algorithms Implementation**
+* Logistic Regression
+* Regularized Logistic Regression
+* Random Forest
+* Support Vector Machine
+* Adaboost
+* XGBoost
+* Lasso & Ridge
 
 
 
